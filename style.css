@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://i.pinimg.com/236x/3f/0f/0c/3f0f0c95a4f3ef35bd845e7723f0a8a8--art-lowrider-latino-art.jpg");
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.doggie{
+  transform:rotate(270deg);
+}
+.color{
+  background-color: black;
+}
